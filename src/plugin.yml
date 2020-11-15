@@ -1,8 +1,0 @@
-name: SchemCB
-version: 1.0
-main: me.kei.schematic.from.SchemCB
-author: Kei
-depend:
-  - WorldEdit
-commands:
-  schemcb:

@@ -1,0 +1,14 @@
+name: SchemCB
+version: 1.0
+main: me.kei.schematic.from.SchemCB
+author: Kei, Kamesuta
+depend:
+  - WorldEdit
+
+commands:
+  schemcb:
+    permission: schemcb
+
+permissions:
+  schemcb:
+    default: op
